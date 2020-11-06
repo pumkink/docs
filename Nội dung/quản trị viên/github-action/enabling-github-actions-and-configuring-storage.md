@@ -1,3 +1,4 @@
+
 ---
 title: Enabling GitHub Actions and configuring storage
 intro: 'External storage must be configured as part of enabling {% data variables.product.prodname_actions %} on {% data variables.product.prodname_ghe_server %}.'
